@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Today-Plan-React/static/css/main.d9759e55.css",
+    "main.js": "/Today-Plan-React/static/js/main.34104918.js",
+    "static/js/787.5dd507e3.chunk.js": "/Today-Plan-React/static/js/787.5dd507e3.chunk.js",
+    "index.html": "/Today-Plan-React/index.html",
+    "main.d9759e55.css.map": "/Today-Plan-React/static/css/main.d9759e55.css.map",
+    "main.34104918.js.map": "/Today-Plan-React/static/js/main.34104918.js.map",
+    "787.5dd507e3.chunk.js.map": "/Today-Plan-React/static/js/787.5dd507e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9759e55.css",
+    "static/js/main.34104918.js"
+  ]
+}
